@@ -3,8 +3,11 @@
 
 ## Team Members:
 Harshita Chaudhari
+
 Isha Harne
+
 Meenakshi Motwani
+
 Anandi Bhute
 
 ## Overview
