@@ -1,6 +1,12 @@
 # IDPS-mini-project
 # NetShield – ARP Intrusion Detection and Prevention System
 
+## Team Members:
+Harshita Chaudhari
+Isha Harne
+Meenakshi Motwani
+Anandi Bhute
+
 ## Overview
 
 NetShield is a lightweight, host-based Intrusion Detection and Prevention System (IDPS) designed to detect suspicious ARP (Address Resolution Protocol) mapping changes that may indicate ARP spoofing attacks.
@@ -120,6 +126,3 @@ Scapy was used in the controlled lab to simulate forged ARP replies.
 
 NetShield is an academic security project intended for educational purposes and authorized testing in an isolated lab environment. It should only be used on networks and systems for which permission has been granted.
 
-## Authors
-
-Add your team members' names and academic details here.
